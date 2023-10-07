@@ -12,4 +12,6 @@ Adjunto algunas capturas:
 
 ![image](https://github.com/pgb287/ETL-TMDB/assets/44307296/4708e825-a068-49ac-8c68-b9f7243195e5)
 
+![image](https://github.com/pgb287/ETL-TMDB/assets/44307296/7372d770-8b92-41dc-9734-8faf9e959b14)
+
 
